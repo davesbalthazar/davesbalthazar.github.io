@@ -1,41 +1,69 @@
 Política de Privacidade
+SEÇÃO 1 – INFORMAÇÕES COLETADAS
 
-SEÇÃO 1 – O QUE FAREMOS COM ESTA INFORMAÇÃO?
+Quando você realiza alguma interação em nosso site ou aplicativo, como parte do processo de cadastro ou utilização de recursos, coletamos as informações pessoais que você nos fornece, tais como: nome, e-mail e endereço.
 
-Quando você realiza alguma transação com nosso site, como parte do processo de cadastro, coletamos as informações pessoais que você nos dá tais como: nome, e-mail e endereço.
+Quando você acessa nossos serviços, também recebemos automaticamente o protocolo de internet (endereço de IP) do seu computador ou dispositivo, além de informações técnicas do navegador e sistema operacional, para melhorar sua experiência e garantir a segurança.
 
-Quando você acessa nosso site, também recebemos automaticamente o protocolo de internet do seu computador, endereço de IP, a fim de obter informações que nos ajudam a aprender sobre seu navegador e sistema operacional.
-
-Email Marketing será realizado apenas caso você permita. Nestes emails você poderá receber notícia sobre nosso site, novos produtos e outras atualizações.
+Se você utilizar recursos que integram YouTube API Services, podemos coletar informações públicas relacionadas ao conteúdo exibido (como título de vídeo, miniatura e canal). Não armazenamos, redistribuímos ou baixamos conteúdo do YouTube.
 
 SEÇÃO 2 – CONSENTIMENTO
-Como vocês obtêm meu consentimento?
 
-Quando você fornece informações pessoais como nome, telefone e endereço em um cadastro. Após a realização de ações entendemos que você está de acordo com a coleta de dados para serem utilizados pela nossa empresa.
+Ao fornecer informações pessoais para completar um cadastro, realizar uma compra ou usar funcionalidades de nossos serviços, entendemos que você está de acordo com a coleta e uso dessas informações para fins específicos.
 
-Se pedimos por suas informações pessoais por uma razão secundária, como marketing, vamos lhe pedir diretamente por seu consentimento, ou lhe fornecer a oportunidade de dizer não.
+Se pedirmos suas informações por uma razão secundária, como marketing, solicitaremos seu consentimento explícito ou daremos a oportunidade de negar.
 
-E caso você queira retirar seu consentimento, como proceder?
-
-Se após você nos fornecer seus dados, você mudar de ideia, você pode retirar o seu consentimento para que possamos entrar em contato, para a coleção de dados contínua, uso ou divulgação de suas informações, a qualquer momento, entrando em contato conosco em contato@davesbalthazar.com.br.
+Você pode retirar seu consentimento a qualquer momento, entrando em contato pelo e-mail: contato@davesbalthazar.com.br
+.
 
 SEÇÃO 3 – DIVULGAÇÃO
-Podemos divulgar suas informações pessoais caso sejamos obrigados pela lei para fazê-lo ou se você violar nossos Termos de Serviço.
+
+Podemos divulgar suas informações pessoais caso sejamos obrigados por lei ou se houver violação de nossos Termos de Serviço.
 
 SEÇÃO 4 – SERVIÇOS DE TERCEIROS
-No geral, os fornecedores terceirizados usados por nós irão apenas coletar, usar e divulgar suas informações na medida do necessário para permitir que eles realizem os serviços que eles nos fornecem.
 
-Links
+Nossos serviços podem utilizar fornecedores terceirizados que coletam, usam e divulgam informações estritamente na medida necessária para permitir que prestem serviços em nosso nome.
 
-Quando você clica em links em nosso site, eles podem lhe direcionar para fora do nosso site. Não somos responsáveis pelas práticas de privacidade de outros sites e lhe incentivamos a ler as declarações de privacidade deles.
+Entre eles podem estar:
+
+Google Play Services
+
+AdMob (publicidade)
+
+Firebase Crashlytics (análise e estabilidade do app)
+
+YouTube API Services
+
+Ao utilizar funcionalidades de vídeo, você também concorda com os Termos de Serviço do YouTube
+. Para mais informações sobre como o Google coleta e processa dados, consulte a Política de Privacidade do Google
+.
+
+Links externos: ao clicar em links em nosso site, você pode ser redirecionado para fora de nossa plataforma. Não nos responsabilizamos pelas práticas de privacidade de outros sites.
 
 SEÇÃO 5 – SEGURANÇA
-Para proteger suas informações pessoais, tomamos precauções razoáveis e seguimos as melhores práticas da indústria para nos certificar que elas não serão perdidas inadequadamente, usurpadas, acessadas, divulgadas, alteradas ou destruídas.
 
-Se você nos fornecer as suas informações de cartão de crédito, essa informação é criptografada usando tecnologia “secure socket layer” (SSL) e armazenada com uma criptografia AES-256. Embora nenhum método de transmissão pela Internet ou armazenamento eletrônico é 100% seguro, nós seguimos todos os requisitos da PCI-DSS e implementamos padrões adicionais geralmente aceitos pela indústria.
+Adotamos medidas de segurança razoáveis e seguimos as melhores práticas da indústria para proteger suas informações pessoais contra perda, uso indevido, acesso não autorizado, divulgação, alteração ou destruição.
 
-SEÇÃO 6 – ALTERAÇÕES PARA ESSA POLÍTICA DE PRIVACIDADE
-Reservamos o direito de modificar essa política de privacidade a qualquer momento, então por favor, revise-a com frequência. Alterações e esclarecimentos vão surtir efeito imediatamente após sua publicação no site. Se fizermos alterações de materiais para essa política, iremos notificá-lo aqui que eles foram atualizados, para que você tenha ciência sobre quais informações coletamos, como as usamos, e sob que circunstâncias, se alguma, usamos e/ou divulgamos elas.
+Embora nenhum método seja 100% seguro, seguimos padrões amplamente aceitos no setor, como criptografia (SSL/AES-256) quando aplicável.
 
-Se nossa loja for adquirida ou fundida com outra empresa, suas informações podem ser transferidas para os novos proprietários para que possamos continuar a vender produtos para você.
+SEÇÃO 6 – DIREITOS DO USUÁRIO
 
+Você tem direito de acessar, corrigir, exportar ou excluir seus dados pessoais, exceto quando a retenção for exigida por lei.
+
+Para exercer esses direitos, entre em contato pelo e-mail contato@davesbalthazar.com.br
+.
+
+SEÇÃO 7 – PRIVACIDADE DE CRIANÇAS
+
+Nossos serviços não são direcionados a menores de 13 anos. Não coletamos intencionalmente informações de crianças. Caso identifiquemos coleta indevida, apagaremos imediatamente os dados.
+
+SEÇÃO 8 – ALTERAÇÕES
+
+Podemos atualizar esta Política de Privacidade periodicamente. Alterações entram em vigor imediatamente após publicação nesta página. Em caso de mudanças significativas, notificaremos você por meio do site ou aplicativo.
+
+Se nossa empresa for adquirida ou fundida, suas informações poderão ser transferidas para os novos proprietários, a fim de garantir a continuidade dos serviços.
+
+SEÇÃO 9 – CONTATO
+
+Em caso de dúvidas ou solicitações sobre esta Política de Privacidade, entre em contato:
+📧 contato@davesbalthazar.com.br
