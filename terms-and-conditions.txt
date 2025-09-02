@@ -1,0 +1,60 @@
+Terms & Conditions
+
+By downloading or using this application (“App”), these terms automatically apply to you. Please read them carefully before using the App. If you do not agree, do not install or use the App.
+
+1) License & Restrictions
+You are not allowed to copy, modify, reverse engineer, or create derivative works of the App or any part of it. All trademarks, copyrights, database rights, and other intellectual property rights related to the App belong to us or our licensors.
+
+2) Service Changes & Charges
+We aim to keep the App useful and efficient. We may update or change the App at any time and may charge for certain features in the future, always making it clear in advance.
+
+3) Data & Security
+The App may store and process personal or device information you provide in order to operate its features. You are responsible for keeping your device secure. Do not jailbreak or root your device, as this may compromise security and affect the App’s functionality.
+
+4) Third-Party Services
+The App may rely on third-party services, each with their own Terms and Privacy Policies, including but not limited to:
+- Google Play Services
+- AdMob (advertising)
+- Firebase Crashlytics (crash reporting)
+- YouTube API Services
+
+You are responsible for reviewing and complying with these third parties’ terms and policies.
+
+5) YouTube Content & API Usage
+The App may use YouTube API Services to search and display public videos. By using these features, you agree to be bound by:
+- YouTube Terms of Service: https://www.youtube.com/t/terms
+- Google Privacy Policy: https://policies.google.com/privacy
+- YouTube API Services Terms of Service: https://developers.google.com/youtube/terms/api-services-terms-of-service
+
+Important rules:
+- Videos are streamed using authorized YouTube players. The App does not allow downloading, storing, or modifying YouTube videos.
+- All content remains the property of its respective rights holders and is protected by copyright.
+- You may only use the YouTube-related features in compliance with applicable laws and YouTube’s policies.
+- The App does not request access to your Google/YouTube account and does not use OAuth scopes; only public metadata is accessed.
+
+6) Network & Data Usage
+Some functions require an active internet connection. We are not responsible if features do not work without Wi-Fi or mobile data. You are responsible for any charges from your provider, including roaming.
+
+7) Device Responsibility
+We are not responsible for any issues arising from device battery depletion, storage limitations, or other device failures while using the App.
+
+8) Availability, Updates & Suspension
+We may update the App from time to time. Requirements for operating systems may change, and you may need updates to continue using the App. We do not guarantee continuous availability and may suspend or discontinue the App at any time.
+
+9) Intellectual Property
+All rights, title, and interest in and to the App and its content (excluding third-party content such as YouTube videos) remain with us or our licensors.
+
+10) Prohibited Conduct
+You agree not to misuse the App, including (without limitation) attempts to scrape, circumvent rate limits, interfere with networks/servers, or use the App to infringe third-party rights.
+
+11) Disclaimer & Limitation of Liability
+The App is provided “as is” and “as available”. To the maximum extent permitted by law, we disclaim all warranties and will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, revenue, or profits, arising from your use of the App.
+
+12) Changes to These Terms
+We may update these Terms from time to time. Changes take effect upon posting in the App. You are advised to review this page periodically.
+
+Effective date: 2025-09-02
+
+13) Contact Us
+If you have any questions or suggestions about these Terms & Conditions, please contact us at:
+davestecnologia@gmail.com
