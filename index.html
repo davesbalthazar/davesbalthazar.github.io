@@ -1,35 +1,297 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <title>Daves Balthazar</title>
-    <meta charset="utf-8">
-<style>
-body {
-  font-family: courier, serif;
-  font-size: 24px;
-}
-a {
-    color: #bc0000;
-}  
+<html lang="en">
 
-</style>    
-  </head>
-  <body>
-    <div style="width:800px; margin:0 auto;">
-      <img src="daves-tecnologia.png"><br /><br />
-   Daves Balthazar<br />
-   Daves Tecnologia<br /><br />
-    
-   Apps<br />
-      <a href="https://play.google.com/store/apps/developer?id=Daves+Tecnologia" target="_blank">Google Play</a><br />
-      <a href="https://apps.apple.com/br/developer/daves-balthazar/id1579033955" target="_blank">App Store</a><br />
+<head>
+  <meta charset="utf-8" />
+  <title>Daves Balthazar – Support and Apps</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description"
+    content="Official support page for Daves Tecnologia. Contact support, view FAQs, and access app store links." />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="Daves Balthazar – Support" />
+  <meta property="og:description" content="Contact support, view FAQs, and get help for Daves Tecnologia apps." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="daves-tecnologia.png" />
 
-    <br /><br />
-    <a href="privacy-policy.txt">Privacy Policy</a><br />
-    <a href="terms-and-conditions.txt">Terms and Conditions</a><br />
+  <style>
+    :root {
+      --accent: #bc0000;
+      --ink: #1b1b1b;
+      --bg: #ffffff;
+      --muted: #666;
+      --card: #f7f7f7;
+      --radius: 16px;
+    }
 
+    * {
+      box-sizing: border-box
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      line-height: 1.45
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none
+    }
+
+    a:hover {
+      text-decoration: underline
+    }
+
+    .wrap {
+      max-width: 920px;
+      margin: 24px auto;
+      padding: 16px
+    }
+
+    header {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 20px
+    }
+
+    header img {
+      max-width: 120px;
+      height: auto;
+      border-radius: 12px
+    }
+
+    h1 {
+      font-size: clamp(24px, 3.5vw, 36px);
+      margin: 0
+    }
+
+    .tag {
+      color: #fff;
+      background: var(--accent);
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      margin-top: 6px
+    }
+
+    .grid {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: repeat(12, 1fr)
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 16px
+    }
+
+    .span-12 {
+      grid-column: 1/-1
+    }
+
+    .span-6 {
+      grid-column: span 6
+    }
+
+    .span-4 {
+      grid-column: span 4
+    }
+
+    @media (max-width:800px) {
+      .grid {
+        grid-template-columns: 1fr
+      }
+
+      .span-6,
+      .span-4,
+      .span-12 {
+        grid-column: 1/-1
+      }
+
+      header {
+        flex-direction: column;
+        align-items: flex-start
+      }
+
+      header img {
+        max-width: 100px
+      }
+    }
+
+    h2 {
+      margin: 0 0 10px 0;
+      font-size: 22px
+    }
+
+    p {
+      margin: 8px 0
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 18px
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 14px;
+      border-radius: 12px;
+      border: 1px solid #ddd;
+      background: #fff;
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600
+    }
+
+    .btn.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff
+    }
+
+    .btn+.btn {
+      margin-left: 8px
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 14px
+    }
+
+    footer {
+      margin: 32px 0 12px 0;
+      color: var(--muted);
+      font-size: 13px
+    }
+
+    .kvs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px
+    }
+
+    .kvs div {
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 12px;
+      padding: 10px
+    }
+
+    details {
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 12px;
+      padding: 10px
+    }
+
+    details summary {
+      cursor: pointer;
+      font-weight: 600
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <img src="daves-tecnologia.png" alt="Daves Tecnologia">
+      <div>
+        <h1>Daves Balthazar <span class="tag">Support</span></h1>
+        <div class="muted">Daves Tecnologia • São Paulo, Brazil</div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <!-- Contact Section -->
+      <section class="card span-6" id="contact">
+        <h2>Contact Support</h2>
+        <p>Need help with one of our apps, purchases, or a technical issue? Reach out to our support team below.</p>
+        <p>
+          <a class="btn primary"
+            href="mailto:davestecnologia@gmail.com?subject=Support%20Request%20–%20Daves%20Tecnologia&body=Please%20describe%20your%20issue%20below%20(include%20app%20name%2C%20version%2C%20device%2C%20and%20OS%20version):%0A%0AApp%20Name:%0AVersion:%0ADevice:%0AOS%20Version:%0ASteps%20to%20Reproduce:%0A%0AScreenshots%20(optional):%0A">
+            Send Support Email
+          </a>
+          <a class="btn" href="#faq">View FAQ</a>
+        </p>
+        <p class="muted">Support hours: Mon–Fri, 9 AM – 6 PM (GMT-3). Typical response time: 1–3 business days.</p>
+      </section>
+
+      <!-- Apps and Documents -->
+      <section class="card span-6">
+        <h2>Apps & Documents</h2>
+        <div class="kvs">
+          <div>
+            <strong>Apps</strong>
+            <ul>
+              <li><a href="https://play.google.com/store/apps/developer?id=Daves+Tecnologia" target="_blank"
+                  rel="noopener">Google Play</a></li>
+              <li><a href="https://apps.apple.com/br/developer/daves-balthazar/id1579033955" target="_blank"
+                  rel="noopener">App Store</a></li>
+            </ul>
+          </div>
+          <div>
+            <strong>Policies</strong>
+            <ul>
+              <li><a href="privacy-policy.txt" target="_blank" rel="noopener">Privacy Policy</a></li>
+              <li><a href="terms-and-conditions.txt" target="_blank" rel="noopener">Terms and Conditions</a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="card span-12" id="faq">
+        <h2>Frequently Asked Questions (FAQ)</h2>
+        <div class="grid">
+          <div class="span-4">
+            <details>
+              <summary>How can I report a bug?</summary>
+              <p>Click <em>Send Support Email</em> above and include: app name, version, device model, OS version, and
+                steps to reproduce the issue. Screenshots or videos help us solve it faster.</p>
+            </details>
+          </div>
+          <div class="span-4">
+            <details>
+              <summary>Payments and Subscriptions</summary>
+              <p>Purchases and subscriptions are managed by the App Store or Google Play. You can review, refund (if
+                eligible), or cancel directly from your store account.</p>
+            </details>
+          </div>
+          <div class="span-4">
+            <details>
+              <summary>Device Compatibility</summary>
+              <p>Please check the requirements on the app’s store page. Include your model and OS version in your
+                support email for personalized assistance.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <!-- About -->
+      <section class="card span-12">
+        <h2>About Daves Tecnologia</h2>
+        <p>We build mobile apps and games focused on user experience, performance, and creativity. Your feedback helps
+          us improve — contact us anytime for questions or suggestions.</p>
+      </section>
     </div>
-  </body>
+
+    <footer>
+      © <span id="y"></span> Daves Tecnologia • Last updated: October 21, 2025 • <a href="#contact">Contact</a>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+
 </html>
-
-
